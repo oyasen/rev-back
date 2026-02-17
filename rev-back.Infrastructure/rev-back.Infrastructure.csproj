@@ -11,4 +11,9 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\rev-back.Application\rev-back.Application.csproj" />
+    <ProjectReference Include="..\rev-back.Domain\rev-back.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
