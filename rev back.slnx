@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="rev back/rev back.csproj" />
   <Project Path="rev-back.Application/rev-back.Application.csproj" />
+  <Project Path="rev-back.Domain/rev-back.Domain.csproj" />
+  <Project Path="rev-back.Infrastructure/rev-back.Infrastructure.csproj" />
 </Solution>
